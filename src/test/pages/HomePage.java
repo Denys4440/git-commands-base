@@ -4,4 +4,6 @@ public class HomePage {
 
     // class for locators
 
+    // new home page
+
 }
